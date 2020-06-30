@@ -1,3 +1,5 @@
+use strict;
+
 use IO::Async::Stream;
 use IO::Async::Timer::Periodic;
 
